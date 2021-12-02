@@ -1,117 +1,117 @@
 #EXTM3U
 
-#EXTINF:-1 "tvg-logo="https://www.diario26.com/media/image/2018/05/24/389513.jpg" group-title="ARGENTINA",TELEMAX
+#EXTINF:-1 tvg-logo="https://www.diario26.com/media/image/2018/05/24/389513.jpg" group-title="ARGENTINA",TELEMAX
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:-1 "tvg-logo="http://www.gentvoficial.com/img/gentv.jpg " group-title="ARGENTINA",GEN TV
+#EXTINF:-1 tvg-logo="http://www.gentvoficial.com/img/gentv.jpg " group-title="ARGENTINA",GEN TV
 https://videohd.live:19360/8010/8010.m3u8
-#EXTINF:-1  "tvg-logo="https://scontent.fmdq3-1.fna.fbcdn.net/v/t39.30808-6/255003802_4503356443064732_1337766411660430794_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHeSBziNZh5qmpC1chdpGx7r7T6lEaZLGyvtPqURpksbLnaZLowXzPQkqePbU676CV9HG-LAADZg0smAkyXdZff&_nc_ohc=Ej0q2tS6H5gAX_BMjZ5&_nc_ht=scontent.fmdq3-1.fna&oh=dfb18b66b9d7ffe4dbaf678d8e5e1a2c&oe=61AD6156 " group-title="ARGENTINA",CANAL 10 MDP
+#EXTINF:-1  tvg-logo="https://scontent.fmdq3-1.fna.fbcdn.net/v/t39.30808-6/255003802_4503356443064732_1337766411660430794_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHeSBziNZh5qmpC1chdpGx7r7T6lEaZLGyvtPqURpksbLnaZLowXzPQkqePbU676CV9HG-LAADZg0smAkyXdZff&_nc_ohc=Ej0q2tS6H5gAX_BMjZ5&_nc_ht=scontent.fmdq3-1.fna&oh=dfb18b66b9d7ffe4dbaf678d8e5e1a2c&oe=61AD6156 " group-title="ARGENTINA",CANAL 10 MDP
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
-#EXTINF:-1 "tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg " group-title="ARGENTINA",CANAL 2 MDP
+#EXTINF:-1 tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg " group-title="ARGENTINA",CANAL 2 MDP
 https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
-#EXTINF:-1 "tvg-logo="https://pbs.twimg.com/profile_images/1065073400954175492/Nyx9GIP6_400x400.jpg " group-title="ARGENTINA",CANAL 8 MDP
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065073400954175492/Nyx9GIP6_400x400.jpg " group-title="ARGENTINA",CANAL 8 MDP
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0112
-#EXTINF:-1 "tvg-logo="http://www.radiosargentina.com.ar/png/VI--79TV.png " group-title="ARGENTINA",CANAL 79 MDP
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--79TV.png " group-title="ARGENTINA",CANAL 79 MDP
 https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/playlist.m3u8
 
-#EXTINF:-1 "tvg-logo="http://noticiasxfn.com/wp-content/uploads/2017/10/logocabecera-2.png " group-title="ARGENTINA",XFN MDP
+#EXTINF:-1 tvg-logo="http://noticiasxfn.com/wp-content/uploads/2017/10/logocabecera-2.png " group-title="ARGENTINA",XFN MDP
 https://5f6e1fe8f2d2e.streamlock.net/canalxfn/canalxfn/chunklist_w1689195.m3u8
-#EXTINF:-1 "tvg-logo="https://canal8catamarca.com.ar/wp-content/uploads/2018/05/cropped-fondo0001.jpg " group-title="ARGENTINA",CANAL 8 CATAMARCA
+#EXTINF:-1 tvg-logo="https://canal8catamarca.com.ar/wp-content/uploads/2018/05/cropped-fondo0001.jpg " group-title="ARGENTINA",CANAL 8 CATAMARCA
 https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w196015907.m3u8
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",NET TV
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 "tvg-logo="https://ip.digital/logo-ip-header.svg " group-title="ARGENTINA",IP
+#EXTINF:-1 tvg-logo="https://ip.digital/logo-ip-header.svg " group-title="ARGENTINA",IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-#EXTINF:-1 "tvg-logo="https://gob-artwork.obs.sa-argentina-1.myhuaweicloud.com/content/ls/37160e1aa0e785cba0707609a44ef51b.png " group-title="ARGENTINA",MIRADOR TV
+#EXTINF:-1 tvg-logo="https://gob-artwork.obs.sa-argentina-1.myhuaweicloud.com/content/ls/37160e1aa0e785cba0707609a44ef51b.png " group-title="ARGENTINA",MIRADOR TV
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
-#EXTINF:-1 "https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online-100x70.png " group-title="ARGENTINA",CANAL 7 JUJUY
+#EXTINF:-1 https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online-100x70.png " group-title="ARGENTINA",CANAL 7 JUJUY
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 "https://i.ibb.co/RSd6MFS/BANNER-TV-8.png " group-title="ARGENTINA",CUIDAD MAGICA
+#EXTINF:-1 https://i.ibb.co/RSd6MFS/BANNER-TV-8.png " group-title="ARGENTINA",CUIDAD MAGICA
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",TELEFE CORDOBA
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",TELEFE CORDOBA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0161
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",TELEFE ROSARIO
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",TELEFE ROSARIO
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-#EXTINF:-1 "https://canal3.lapampa.gob.ar/images/LogoCanal3yGobBlanco.png " group-title="ARGENTINA",CANAL 3 LA PAMPA
+#EXTINF:-1 https://canal3.lapampa.gob.ar/images/LogoCanal3yGobBlanco.png " group-title="ARGENTINA",CANAL 3 LA PAMPA
 https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1 "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png " group-title="ARGENTINA",TELEVIDA
+#EXTINF:-1 https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png " group-title="ARGENTINA",TELEVIDA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
 #EXTINF:-1 http://www.tvcinco.com/notix/images/c12-label.jpg " group-title="ARGENTINA",5TV CORRIENTES
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1nMgwhYL_v0uoSNyzI-OgeCkgsJcfnIdQUA&usqp=CAU " group-title="ARGENTINA",DIRECTV SPORTS HD
+#EXTINF:-1 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1nMgwhYL_v0uoSNyzI-OgeCkgsJcfnIdQUA&usqp=CAU " group-title="ARGENTINA",DIRECTV SPORTS HD
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4fl1RHPD_lnyi3FI0Li5b3mJE1_zdPbqPrQ&usqp=CAU " group-title="ARGENTINA",DEPORTV 
+#EXTINF:-1 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4fl1RHPD_lnyi3FI0Li5b3mJE1_zdPbqPrQ&usqp=CAU " group-title="ARGENTINA",DEPORTV 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubk5FxILmCfXIheDgnxuBcSeP8K8-jNNEkg&usqp=CAU " group-title="ARGENTINA",TYC SPORT PLAY
+#EXTINF:-1 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubk5FxILmCfXIheDgnxuBcSeP8K8-jNNEkg&usqp=CAU " group-title="ARGENTINA",TYC SPORT PLAY
 https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
-#EXTINF:-1 "https://c8q6v9q8.stackpathcdn.com//static/img/branding/isologo.svg" group-title="ARGENTINA",TV PUBLICA
+#EXTINF:-1 https://c8q6v9q8.stackpathcdn.com//static/img/branding/isologo.svg" group-title="ARGENTINA",TV PUBLICA
 https://edge1.stg.cvattv.com.ar/live/live2/Canal7/SA_Live_fta/index.m3u8
-#EXTINF:-1 "http://cine.ar/img/logo-sin-bajada.svg " group-title="ARGENTINA",CINE AR
+#EXTINF:-1 http://cine.ar/img/logo-sin-bajada.svg " group-title="ARGENTINA",CINE AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",EL TRECE
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",EL TRECE
 http://edge1.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/index.m3u8
 
 
-#EXTINF:-1 "tvg-logo="http://www.9link.com.ar/assets/images/logo.jpg" group-title="ARGENTINA",9LINK CHACO
+#EXTINF:-1 tvg-logo="http://www.9link.com.ar/assets/images/logo.jpg" group-title="ARGENTINA",9LINK CHACO
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
-#EXTINF:-1 "https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png " group-title="ARGENTINA",MULTIVISION SALTA
+#EXTINF:-1 https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png " group-title="ARGENTINA",MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",RTN NEUQUEN
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",RTN NEUQUEN
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",CANAL 7 SANTIAGO DEL ESTERO
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",CANAL 7 SANTIAGO DEL ESTERO
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",CANAL 13 LA RIOJA
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",CANAL 13 LA RIOJA
 https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",13 MAX CORRIENTES
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",13 MAX CORRIENTES
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
 
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",TELEFE
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",AMERICA TV
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",AMERICA TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 "tvg-logo="https://cdn.diario26.com/media/image/2021/11/07/490428.jpg " group-title="ARGENTINA",CANAL 26
+#EXTINF:-1 tvg-logo="https://cdn.diario26.com/media/image/2021/11/07/490428.jpg " group-title="ARGENTINA",CANAL 26
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",TN HD
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",TN HD
 https://www.youtube.com/embed/wHn1_QVoXGM?controls=0&modestbranding=1&rel=0&showinfo=0&loop=0&fs=0&hl=es&enablejsapi=1&origin=https%3A%2F%2Fapi.vodgc.net&widgetid=1
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",CANAL 8 MDP
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",CANAL 8 MDP
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0112
-#EXTINF:-1 "tvg-logo="https://gob-artwork.obs.sa-argentina-1.myhuaweicloud.com/content/ls/7382eac74f5cb1888ec1be7b04b73da4.png " group-title="ARGENTINA",ENCUENTRO
+#EXTINF:-1 tvg-logo="https://gob-artwork.obs.sa-argentina-1.myhuaweicloud.com/content/ls/7382eac74f5cb1888ec1be7b04b73da4.png " group-title="ARGENTINA",ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",MAGIC TV
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",MAGIC TV
 https://live.admefy.com/live/clean_peach_ef224.m3u8
-#EXTINF:-1 "tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png " group-title="ARGENTINA", PAKA PAKA 
+#EXTINF:-1 tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png " group-title="ARGENTINA", PAKA PAKA 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",LOS SIMPSONS
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",LOS SIMPSONS
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",TERRAMIA TV
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",TERRAMIA TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 "tvg-logo="https://www.diario26.com/images/musictop_logo.png " group-title="ARGENTINA",MUSIC TOP
+#EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png " group-title="ARGENTINA",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",TYC SPORTS
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",TYC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",CANAL 6 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",CANAL 6 MAR DEL PLATA
 https://live.admefy.com/live/slight_chocolate_c4efa.m3u8
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",CANAL 5 TANDIL
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",CANAL 5 TANDIL
 https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
-#EXTINF:-1 "tvg-logo="https://pbs.twimg.com/profile_images/1171440347508920320/7pwThQbq_400x400.jpg" group-title="ARGENTINA",KZO
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171440347508920320/7pwThQbq_400x400.jpg" group-title="ARGENTINA",KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
-#EXTINF:-1 "tvg-logo="https://www.elnueve.com.ar/wp-content/themes/elnueve-ned-theme/img/logo.png " group-title="ARGENTINA",CANAL 9 Bs.As
+#EXTINF:-1 tvg-logo="https://www.elnueve.com.ar/wp-content/themes/elnueve-ned-theme/img/logo.png " group-title="ARGENTINA",CANAL 9 Bs.As
 https://d2r6nlw8e5ph9i.cloudfront.net/elnueve/smil:elnueve.smil/chunklist_b2200000.m3u8
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",CS TV
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",CS TV
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",AMERICA TUCUMAN 
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",AMERICA TUCUMAN 
 http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmRNvqsJ3rTIUa-yR9VMeFkRtZcmXQDZ_sZw&usqp=CAU " group-title="ARGENTINA",ANIME ZONE
+#EXTINF:-1 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmRNvqsJ3rTIUa-yR9VMeFkRtZcmXQDZ_sZw&usqp=CAU " group-title="ARGENTINA",ANIME ZONE
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 "tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",POWER
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",POWER
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwBFWTh7rAyobbQRX1TNbFitP1iJnPzw-s2g&usqp=CAU" group-title="ARGENTINA",LATINA KIDS
+#EXTINF:-1 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwBFWTh7rAyobbQRX1TNbFitP1iJnPzw-s2g&usqp=CAU" group-title="ARGENTINA",LATINA KIDS
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 "tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png " group-title="ARGENTINA",A24
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png " group-title="ARGENTINA",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
