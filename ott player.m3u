@@ -74,8 +74,8 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="NOTICIAS",TN HD
 https://www.youtube.com/embed/wHn1_QVoXGM?controls=0&modestbranding=1&rel=0&showinfo=0&loop=0&fs=0&hl=es&enablejsapi=1&origin=https%3A%2F%2Fapi.vodgc.net&widgetid=1
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",CANAL 8 MDP
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0112
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg " group-title="ARGENTINA",CANAL 9 litoral
+ttps://stream.arcast.live/ahora/ahora/chunklist_w1550726158.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://gob-artwork.obs.sa-argentina-1.myhuaweicloud.com/content/ls/7382eac74f5cb1888ec1be7b04b73da4.png " group-title="ARGENTINA",ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
@@ -134,6 +134,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0318
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="ARGENTINA", NEO TV DIGITAL  
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj0Kq9wFjjRpscyn7tJZSrb4Hp4hA9KSFCh0aqCgTVeA2uCPM3eGk0OnGh8DsqK85DqmI&usqp=CAU" group-title="ARGENTINA", ATV ARGENTINA  19.1
+https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8  
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWBVNr8JWR_b3YK2lEzSVIbxDr4m-8twRlw&usqp=CAU"group-title="deportes",TyC SPORTS PLAY 1
