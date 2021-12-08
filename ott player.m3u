@@ -2,9 +2,9 @@
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/media/image/2018/05/24/389513.jpg" group-title="ARGENTINA",TELEMAX
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.gentvoficial.com/img/gentv.jpg " group-title="ARGENTINA",GEN TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw " group-title="ARGENTINA",GEN TV
 https://videohd.live:19360/8010/8010.m3u8
-#EXTINF:-1  tvg-logo="https://scontent.fmdq3-1.fna.fbcdn.net/v/t39.30808-6/255003802_4503356443064732_1337766411660430794_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHeSBziNZh5qmpC1chdpGx7r7T6lEaZLGyvtPqURpksbLnaZLowXzPQkqePbU676CV9HG-LAADZg0smAkyXdZff&_nc_ohc=Ej0q2tS6H5gAX_BMjZ5&_nc_ht=scontent.fmdq3-1.fna&oh=dfb18b66b9d7ffe4dbaf678d8e5e1a2c&oe=61AD6156 " group-title="ARGENTINA",CANAL 10 MDP
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1457690098682769408/BAsD0IC-_400x400.jpg " group-title="ARGENTINA",CANAL 10 MDP
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg " group-title="ARGENTINA",CANAL 2 MDP
 https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
