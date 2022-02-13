@@ -179,13 +179,13 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="ARGENTINA",TNT SPOTS
 https://edge9-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8?SBN
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", SSIPTV ARG SPORTS
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", ESPN2HD
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", SSIPTV ARG SPORTS 2
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE",Fox Sports Premiun HD
 http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", SSIPTV ARG SPORTS 3
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", TNT Sports HD
 http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/msJjE/f96602e474.png" group-title="CURIOSIDAD", Nat Geo
@@ -263,3 +263,57 @@ https://chromecast.cvattv.com.ar/live/live/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mb2Rd/9c56f73248.png" group-title="CURIOSIDAD", Nat Geo Wild
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="INFANTIL", Disney Junior
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204286
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="INFANTIL", Cartoon Network 
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="INFANTIL", Disney Channel
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mw51W/3b10c832dd.png" group-title="INFANTIL", Nick
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204289
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="INFANTIL", Cartoonito
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204294
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="INFANTIL", Disney XD 
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204299
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="INFANTIL", Discovery Kids
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204336
+
+#EXTINF:-1 tvg-logo="https://puu.sh/wZVOI/399ecc3f7e.png" group-title="INFANTIL", Nat Geo Kids
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204300
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mw57k/d21813a8f6.png" group-title="INFANTIL", Nick JR
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204338
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="INFANTIL", Baby TV
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204281
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mw5oi/09350aa9a0.png" group-title="INFANTIL", Tooncast
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204292
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="SERIES", A&E
+http://edge02-fdo-py.cvattv.com.ar/live/live/AEHD/SA_SAGEMCOM/AEHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204343
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden +
+http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden Premiere
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56489
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Edge
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204344
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="SERIES", TNT Series
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+
