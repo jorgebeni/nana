@@ -328,3 +328,12 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228757
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/775701341591183360/FQb6gqWT_400x400.jpg" group-title="MUSICA", QUIERO MUSICA
 http://edge9-sl.cvattv.com.ar/live/c2live/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTE", Fox Sports 
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTE", Fox Sports 2
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTE", Fox Sports 3
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
