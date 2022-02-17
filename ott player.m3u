@@ -317,3 +317,11 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204344
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="SERIES", TNT Series
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTE", DirectTV Sports
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204265
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228754
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTE", DirectTV Sports +
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228757
