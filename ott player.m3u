@@ -365,7 +365,7 @@ https://failarmy-linear-us.sinclair.wurl.tv/2000.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/chunklist_w965407691_b1500000_slen.m3u8 
 #EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60377/espn2.jpg" group-title="ARGENTINA",ESPN2_Arg
 https://edge6-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-avc1_379968=10005.m3u8
-#EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60086/TyCsports.jpg" group-title="ARGENTINA",WOWTV
+#EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60086/TyCsports.jpg" group-title="ARGENTINA",TyCsports
 https://livestreamapis.com/v3/accounts/27014129/events/8167338/master.m3u8?token=5f30d94fe3280d8616b9b548036d33cf&clientId=18998&timestamp=1645995156732&signature=605c4756797d80000dfb2d167eacd10eb67c4382aad6d9d44e34a642e9e797b49ee26af3f16e1dfd05ad017efad0ed6e
 #EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60402/tntsports.jpg" group-title="ARGENTINA",TNT Sports HD
 https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8 
