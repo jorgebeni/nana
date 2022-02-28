@@ -2,14 +2,14 @@
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/media/image/2018/05/24/389513.jpg" group-title="ARGENTINA",TELEMAX
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw " group-title="ARGENTINA",GEN TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="ARGENTINA",GEN TV
 https://videohd.live:19360/8010/8010.m3u8
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1457690098682769408/BAsD0IC-_400x400.jpg " group-title="ARGENTINA",CANAL 10 MDP
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1480555983369764865/aEyj0zPi_400x400.jpg" group-title="ARGENTINA",CANAL 10 MDP
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg " group-title="ARGENTINA",CANAL 2 MDP
 https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
 #EXTINF:-1 tvg-logo="https://telefe-static2.akamaized.net/media/143206/logo-mar-del-plata-368x80.png " group-title="ARGENTINA",CANAL 8 MDP
-https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1638977041~exp=1639153441~acl=/i/mdqdistri02_1@829747/*~hmac=2a26bb3ac29bfa2d86621166f8fd088732ec3e08dde440c99adb6a3d81119e09
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0111
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--79TV.png " group-title="ARGENTINA",CANAL 79 MDP
 https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/playlist.m3u8
 
@@ -72,7 +72,7 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",AMERICA TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.diario26.com/media/image/2021/11/07/490428.jpg " group-title="ARGENTINA",CANAL 26
@@ -123,8 +123,8 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD   
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" group-title="NOTICIAS", C5N  25.2
-https://www.youtube.com/watch?v=jN0TnHxhliA
+#EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1409536579127939080/GqY-VqhM_400x400.jpg" group-title="NOTICIAS", C5N 
+https://edge-live12-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title="ARGENTINA", TV PUBLICA 
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
@@ -337,3 +337,47 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2H
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTE", Fox Sports 3
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvGj0Uzxqx3am9N-8s-f6ngj1B88KxP44_lSoKPB1z7xuZfMAqI4yMmnpSDh-olenr2A&usqp=CAU" group-title="INFANTIL", FOX KIDS
+http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="ARGENTINA",CANAL U
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Telewizja_Polska_2022.svg" group-title="ARGENTINA",TVP
+https://f6z5x8d4.stackpathcdn.com/stream_720/index.m3u8 
+#EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60088/espnhd.jpg" group-title="ARGENTINA",ESPNHD
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60371/cartoonnetwork.jpg" group-title="ARGENTINA",cartoonnetwork
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8 cartoon
+#EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60102/natgeokids.jpg" group-title="ARGENTINA",dibujos
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8 
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/0000/33-f.jpg" group-title="ARGENTINA",THE SIMPSONS
+https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w87146634.m3u8 
+#EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60068/eltrece.jpg" group-title="ARGENTINA",CANAL13
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h_400x400.jpg" group-title="ARGENTINA", CANAL4
+https://5cd577a3dd8ec.streamlock.net/canal4/manifest.smil/chunklist_w1519102926_b316000.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/AmericasFunniestHomeVideos/showimages/46b8650662feb7c6acce0f0761ce7857/1344x538-Q75_46b8650662feb7c6acce0f0761ce7857.jpg" group-title="ARGENTINA",AFV
+https://linear-46.frequency.stream/46/hls/master/playlist_1280x720.m3u8 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/53/b4/f7/53b4f7d982a2349430f4b8de94c3a516.jpg" group-title="ARGENTINA",FAILARMY
+https://failarmy-linear-us.sinclair.wurl.tv/2000.m3u8 
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="ARGENTINA",WOWTV
+https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/chunklist_w965407691_b1500000_slen.m3u8 
+#EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60377/espn2.jpg" group-title="ARGENTINA",ESPN2_Arg
+https://edge6-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-avc1_379968=10005.m3u8
+#EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60086/TyCsports.jpg" group-title="ARGENTINA",WOWTV
+https://livestreamapis.com/v3/accounts/27014129/events/8167338/master.m3u8?token=5f30d94fe3280d8616b9b548036d33cf&clientId=18998&timestamp=1645995156732&signature=605c4756797d80000dfb2d167eacd10eb67c4382aad6d9d44e34a642e9e797b49ee26af3f16e1dfd05ad017efad0ed6e
+#EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60402/tntsports.jpg" group-title="ARGENTINA",TNT Sports HD
+https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8 
+#EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60404/foxsportpremium.jpg" group-title="ARGENTINA",Fox Sports Premiun HD
+https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+
+
+
+
+
+
+
+
+
