@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/media/image/2018/05/24/389513.jpg" group-title="ARGENTINA",TELEMAX
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="ARGENTINA",GEN TV
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/GenTV.png" group-title="ARGENTINA",GEN TV
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1480555983369764865/aEyj0zPi_400x400.jpg" group-title="ARGENTINA",CANAL 10 MDP
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
