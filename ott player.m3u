@@ -392,28 +392,6 @@ https://stmv1.srvif.com/canal9/canal9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1446152329745555462/_BdjkCz2_400x400.png" group-title="URUGUAY", CANAL 77
 https://stmv1.srvif.com/canal77/canal77/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CINE",Universal Cinema
-http://directo.ddns.me:33200/800yt/202020/50467
-
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="CINE",Universal Crime
-http://directo.ddns.me:33200/800yt/202020/50468
-
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="CINE",Universal Comedy
-http://directo.ddns.me:33200/800yt/202020/50469
-
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE",Universal Premiere
-http://directo.ddns.me:33200/800yt/202020/50470
-
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="CINE",Universal Reality
-http://directo.ddns.me:33200/800yt/202020/50466
-
-#EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="SERIES", Studio Universal
-http://directo.ddns.me:33200/800yt/202020/2658
-
-#EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="SERIES", Universal
-http://directo.ddns.me:33200/800yt/202020/30627
-
-
 
 
 
