@@ -70,9 +70,9 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 #EXTINF:-1 tvg-logo="https://okdiario.com/img/2016/06/27/vevo-655x368.png"group-title="MUSICA",VEVO LATINO
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Vallenato.png/revision/latest?cb=20210423184147&path-prefix=es"group-title= "MÚSICA", VALLENATO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Vallenato.png/revision/latest?cb=20210423184147&path-prefix=es"group-title= "MUSICA", VALLENATO
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3259533272/4ba50dc7257ebb6823b6516b2718da5d_400x400.png"group-title="MÚSICA",TELEMÚSICA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3259533272/4ba50dc7257ebb6823b6516b2718da5d_400x400.png"group-title="MUSICA",TELEMÚSICA
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
 
@@ -149,9 +149,9 @@ http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvGj0Uzxqx3am9N-8s-f6ngj1B88KxP44_lSoKPB1z7xuZfMAqI4yMmnpSDh-olenr2A&usqp=CAU" group-title="INFANTIL", FOX KIDS
 http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60102/natgeokids.jpg" group-title="ARGENTINA",PINKFONG
+#EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60102/natgeokids.jpg" group-title="INFANTIL",PINKFONG
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8 
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/0000/33-f.jpg" group-title="ARGENTINA",LOS SIMPSON
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/0000/33-f.jpg" group-title="INFANTIL",LOS SIMPSON
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w87146634.m3u8 
 
 
@@ -180,7 +180,7 @@ https://videohd.live:19360/8010/8010.m3u8
 https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w196015907.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="TDA",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ip.digital/logo-ip-header.svg " group-title="ARGENTINA",IP
+#EXTINF:-1 tvg-logo="https://ip.digital/logo-ip-header.svg " group-title="TDA",IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 #EXTINF:-1 tvg-logo="https://gob-artwork.obs.sa-argentina-1.myhuaweicloud.com/content/ls/37160e1aa0e785cba0707609a44ef51b.png " group-title="TDA",MIRADOR TV
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
