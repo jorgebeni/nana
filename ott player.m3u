@@ -168,7 +168,7 @@ https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
 #EXTINF:-1 tvg-logo="http://noticiasxfn.com/wp-content/uploads/2017/10/logocabecera-2.png " group-title="MDP",XFN MDP
 https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGNuQmaslhYNpv9bc4hyQ2uzGvau2iYGD9U9R=s88-ck-c0x00ffffff-no-rj"group-title="MDP",CANAL 6 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/IkqsOIPJlrZhaLaFVbq7ZDFTpGbbMWhxIz4g0W89fQ0_mP6VFXonx2VT-4SdsyGnzk9AgOY=s85"group-title="MDP",CANAL 6 MAR DEL PLATA
 https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lacapitalmdp.com/wp-content/uploads//2017/03/299046.jpg"group-title="MDP",CANAL UNIVERSIDAD MDP
 https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54481EIOhu_CDRBJxWAYIE40)/dm/3/x7kvvgi/s/live-1.m3u8
@@ -198,7 +198,7 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png " group-title="TDA",MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2UbrdJ7jMAo/XCP-z3HEz7I/AAAAAAAAB9I/QzMh8dnkOB0Uorjq76hwKBMFFflE3bREACLcBGAs/s200/canal-13-la-rioja.jpg " group-title=" TDA, CANAL 13 LA RIOJA
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2UbrdJ7jMAo/XCP-z3HEz7I/AAAAAAAAB9I/QzMh8dnkOB0Uorjq76hwKBMFFflE3bREACLcBGAs/s200/canal-13-la-rioja.jpg"group-title="TDA", CANAL 13 LA RIOJA
 https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.13maxtv.com/new/img/logo13.png " group-title="TDA",13 MAX CORRIENTES
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
