@@ -128,6 +128,10 @@ http://168.232.168.242:8000/play/a069/index.m3u8
 http://168.232.168.242:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden +
 http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden Premiere
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56489
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Edge
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204344
 
 
 
