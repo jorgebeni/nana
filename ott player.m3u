@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg ="file:///C:/Users/tomylu/Desktop/guide.xml"
+
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="DUCUMENTALES",DiscoveryHomeHealthHD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD-avc1_899968=10000.m3u8
