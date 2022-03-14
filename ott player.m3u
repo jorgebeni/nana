@@ -49,7 +49,7 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204265
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228754
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTES", DirectTV Sports +
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228757
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nR6Fcm2.png" group-title="DEPORTE",DEPORTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nR6Fcm2.png" group-title="DEPORTES",DEPORTV 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/250px-Logo_de_Claro.svg.png" group-title="DEPORTES",CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
@@ -115,6 +115,10 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 https://edge9-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1 tvg-logo="http://cine.ar/img/logo-sin-bajada.svg " group-title="CINE",CINE AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cine_sony-mediano.png"group-title="CINE", SONY CINE
+http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://1.bp.blogspot.com/-ujFKlvZdo-4/Ya1vNGJNBOI/AAAAAAAA-HQ/7hQuDOh9DnIF2H39sQ5CiJFiVbVEK3_2QCNcBGAsYHQ/s0/universal-premiere.png"group-title="CINE",UNIVERSAL PREMIERE
+http://168.232.168.242:8000/play/a069/index.m3u8
 
 
 
