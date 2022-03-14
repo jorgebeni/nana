@@ -18,6 +18,8 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-av
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.quever.news/u/fotografias/m/2022/1/27/f1456x819-22573_192943_5050.jpg" group-title="DUCUMENTALES",HistoryHD
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="DUCUMENTALES", GOURMET TV
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 
 
 
@@ -53,6 +55,8 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228757
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_Claro.svg/250px-Logo_de_Claro.svg.png" group-title="DEPORTES",CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" group-title="DEPORTES", GOL TV
+http://154.62.74.29:1935/live/gol/chunklist.m3u
 
 
 
@@ -119,6 +123,10 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM
 http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://1.bp.blogspot.com/-ujFKlvZdo-4/Ya1vNGJNBOI/AAAAAAAA-HQ/7hQuDOh9DnIF2H39sQ5CiJFiVbVEK3_2QCNcBGAsYHQ/s0/universal-premiere.png"group-title="CINE",UNIVERSAL PREMIERE
 http://168.232.168.242:8000/play/a069/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden
+http://168.232.168.242:8000/play/a039/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden +
+http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
 
 
 
