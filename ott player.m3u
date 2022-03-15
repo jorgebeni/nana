@@ -21,6 +21,10 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="DUCUMENTALES", GOURMET TV
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel.png" group-title="DUCUMENTALES",DISCOVERY CHANNEL
+https://edge01-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Comedy_Central.png" group-title="DUCUMENTALES",omedyCentral
+https://edge-live12-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 
 
 
@@ -58,6 +62,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" group-title="DEPORTES", GOL TV
 http://154.62.74.29:1935/live/gol/chunklist.m3u
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tdn-945.png" group-title="DEPORTES",TUDN SPORTS
+https://videodelivery.net/6cb93113715365376bd4d473c005560a/manifest/video.m3u8
 
 
 
@@ -132,6 +138,12 @@ http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56489
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Edge
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204344
+#EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/canal_fxm.png" group-title="CINE",FXM
+https://cdn.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD-avc1_1726000=10008-mp4a_144800_spa=20001.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="CINE",FX
+https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD-avc1_1972000=10006-mp4a_144800_spa=20000.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-claro_m.png" group-title="CINE",claro cinema
+https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/chunklist_w502191135.m3u8
 
 
 
@@ -223,8 +235,6 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 ttps://stream.arcast.live/ahora/ahora/chunklist_w1550726158.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://gob-artwork.obs.sa-argentina-1.myhuaweicloud.com/content/ls/7382eac74f5cb1888ec1be7b04b73da4.png " group-title="TDA",ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="TDA", CIUDAD MAGICA TV
-https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="TDA",CANAL U
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Telewizja_Polska_2022.svg" group-title="TDA",TVP
@@ -241,6 +251,8 @@ https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada
 #https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telesoldiario.com/wp-content/uploads/2021/07/tlsd272naranja.png" group-title="TDA",tls
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telediariotelevision.com.ar/wp-content/uploads/2019/10/cropped-TELEDIARIO-TELEVISION-2.jpg" group-title="TDA",telediario
+https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
 
 
