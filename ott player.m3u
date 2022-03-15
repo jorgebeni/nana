@@ -23,7 +23,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel.png" group-title="DUCUMENTALES",DISCOVERY CHANNEL
 https://edge01-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Comedy_Central.png" group-title="DUCUMENTALES",omedyCentral
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Comedy_Central.png" group-title="DUCUMENTALES",comedyCentral
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 
 
