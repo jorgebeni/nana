@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Argentina/buscadorcablevision.com.ar.channels.xml"
+#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Argentina/telered.com.ar.channels.xml"
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="DUCUMENTALES",DiscoveryHomeHealthHD
@@ -23,7 +23,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel.png" group-title="DUCUMENTALES",DISCOVERY CHANNEL
 https://edge01-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Comedy_Central.png" group-title="DUCUMENTALES",comedyCentral
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Comedy_Central.png" group-title="DUCUMENTALES",COMEDY CENTRAL
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 
 
@@ -132,11 +132,11 @@ http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
 http://168.232.168.242:8000/play/a069/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden
 http://168.232.168.242:8000/play/a039/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden +
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_golden_m.png" group-title="CINE",Golden +
 http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden Premiere
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",Golden Premiere
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56489
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Edge
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_golden-edge_m.png" group-title="CINE",Edge
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204344
 #EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/canal_fxm.png" group-title="CINE",FXM
 https://cdn.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD-avc1_1726000=10008-mp4a_144800_spa=20001.m3u8
@@ -144,6 +144,10 @@ https://cdn.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD-avc
 https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD-avc1_1972000=10006-mp4a_144800_spa=20000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-claro_m.png" group-title="CINE",claro cinema
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/chunklist_w502191135.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="CINE", A&E
+http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_warner-channel_m.png" group-title="SERIES", Warner Channel
+http://168.232.168.242:8000/play/a0eq/index.m3u8
 
 
 
@@ -181,7 +185,7 @@ http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvGj0Uzxqx3am9N-8s-f6ngj1B88KxP44_lSoKPB1z7xuZfMAqI4yMmnpSDh-olenr2A&usqp=CAU" group-title="INFANTIL", FOX KIDS
 http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60102/natgeokids.jpg" group-title="INFANTIL",PINKFONG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRllhatlabWzmSsAIA2oPaoKmxxTlY4JqIjrw&usqp=CAU" group-title="INFANTIL",PINKFONG
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8 
 
 
@@ -209,7 +213,7 @@ http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="https://canal8catamarca.com.ar/wp-content/uploads/2018/05/cropped-fondo0001.jpg"group-title="TDA",CANAL 8 CATAMARCA
 https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w196015907.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="TDA",NET TV
+#EXTINF:-1 tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="TDA",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gob-artwork.obs.sa-argentina-1.myhuaweicloud.com/content/ls/37160e1aa0e785cba0707609a44ef51b.png " group-title="TDA",MIRADOR TV
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
@@ -278,6 +282,8 @@ http://edge1.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/index.m3u8
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:-1 tvg-logo="https://ip.digital/logo-ip-header.svg " group-title="NOTICIAS",IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+#EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2021/09/logo-texto-blanco-e1631723660642.png"group-title="NOTICIAS",CANAL 7 MENDOZA
+https://www.youtube.com/watch?v=LNn14YeAOQg
 
 
 
