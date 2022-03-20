@@ -201,10 +201,10 @@ https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
 #EXTINF:-1 tvg-logo="http://noticiasxfn.com/wp-content/uploads/2017/10/logocabecera-2.png " group-title="MDP",XFN MDP
 https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/IkqsOIPJlrZhaLaFVbq7ZDFTpGbbMWhxIz4g0W89fQ0_mP6VFXonx2VT-4SdsyGnzk9AgOY=s85"group-title="MDP",CANAL 6 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/d5/e3/d5e3018d395c9cfaa4bfd36b411c024d.jpg"group-title="MDP",CANAL 6 MAR DEL PLATA
 https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lacapitalmdp.com/wp-content/uploads//2017/03/299046.jpg"group-title="MDP",CANAL UNIVERSIDAD MDP
-https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54481EIOhu_CDRBJxWAYIE40)/dm/3/x7kvvgi/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://canal.mdp.edu.ar/img/canal28.png"group-title="MDP",CANAL UNIVERSIDAD MDP
+https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54yt-nm2r-mS2Y5C5Pz69EzA)/dm/3/x7kvvgi/s/live-1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/media/image/2018/05/24/389513.jpg" group-title="TDA",TELEMAX
