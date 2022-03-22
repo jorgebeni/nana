@@ -9,15 +9,15 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="DUCUMENTALES",AnimalPlanet
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Discovery_Turbo_logo.svg" group-title="DUCUMENTALES",DiscoveryTurbo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Discovery_Turbo_logo.svg" group-title="DUCUMENTALES",Discovery Turbo
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="DUCUMENTALES",NatGeoWildHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="DUCUMENTALES",NatGeoWild HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/12/National-Geographic-HD-Logo.jpg" group-title="DUCUMENTALES",NatGeoHD
+#EXTINF:-1 tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/12/National-Geographic-HD-Logo.jpg" group-title="DUCUMENTALES",NatGeo HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-avc1_1480000=10002.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg" group-title="DUCUMENTALES",History 2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
-#EXTINF:-1 tvg-logo="https://www.quever.news/u/fotografias/m/2022/1/27/f1456x819-22573_192943_5050.jpg" group-title="DUCUMENTALES",HistoryHD
+#EXTINF:-1 tvg-logo="https://www.quever.news/u/fotografias/m/2022/1/27/f1456x819-22573_192943_5050.jpg" group-title="DUCUMENTALES",History HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="DUCUMENTALES", GOURMET TV
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
@@ -42,7 +42,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES",FoxSports
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="DEPORTES",FoxSports2HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="DEPORTES",FoxSports2 HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTES",FoxSports3HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
@@ -86,21 +86,21 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel.png" group-title="CINE",SonyHD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel.png" group-title="CINE",Sony HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/322/CH_LOGO/60/40/0/0/77955190072999.png" group-title="CINE",TNTSeries
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/322/CH_LOGO/60/40/0/0/77955190072999.png" group-title="CINE",TNT Series
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png"group-title="CINE",STAR CHANNEL HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica.png" group-title="CINE",TNTHD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica.png" group-title="CINE",TNT HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinecanal-1_m.png" group-title="CINE",CinecanalHD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinecanal-1_m.png" group-title="CINE",Cinecanal HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinemax-sur_m.png" group-title="CINE",Cinemax
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_universal-channel_m.png" group-title="CINE",UniversalChannelHD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_universal-channel_m.png" group-title="CINE",Universal Channel HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-hd-este_m.png" group-title="CINE",HBOHD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-hd-este_m.png" group-title="CINE",HBO HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE",HBO2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
@@ -155,13 +155,13 @@ http://168.232.168.242:8000/play/a0eq/index.m3u8
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204281
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="INFANTIL", Cartoonito
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204294
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_m.png" group-title="INFANTIL", CartoonNetwork
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_m.png" group-title="INFANTIL", Cartoon Network
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 #EXTINF:-1 tvg-logo="https://i.argentino.com.ar/images/2013/0518/776779-discovery-kids-channel-en-canal-infantil-mas-visto-por-los-mas-chiquitos-20130518010922409.jpg" group-title="INFANTIL", Discovery_Kids
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/disney-channel.jpg" group-title="INFANTIL", DisneyChannelHD
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/disney-channel.jpg" group-title="INFANTIL", Disney Channel HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney-jr_m.png" group-title="INFANTIL", DisneyJr
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney-jr_m.png" group-title="INFANTIL", Disney Jr
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="INFANTIL", Disney XD 
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204299
@@ -185,7 +185,7 @@ http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvGj0Uzxqx3am9N-8s-f6ngj1B88KxP44_lSoKPB1z7xuZfMAqI4yMmnpSDh-olenr2A&usqp=CAU" group-title="INFANTIL", FOX KIDS
 http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRllhatlabWzmSsAIA2oPaoKmxxTlY4JqIjrw&usqp=CAU" group-title="INFANTIL",PINKFONG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRllhatlabWzmSsAIA2oPaoKmxxTlY4JqIjrw&usqp=CAU" group-title="INFANTIL",PINK FONG
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8 
 
 
