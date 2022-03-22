@@ -15,7 +15,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/Disco
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/12/National-Geographic-HD-Logo.jpg" group-title="DUCUMENTALES",NatGeoHD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-avc1_1480000=10002.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg" group-title="DUCUMENTALES",History_2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg" group-title="DUCUMENTALES",History 2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.quever.news/u/fotografias/m/2022/1/27/f1456x819-22573_192943_5050.jpg" group-title="DUCUMENTALES",HistoryHD
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
@@ -72,7 +72,7 @@ https://videodelivery.net/6cb93113715365376bd4d473c005560a/manifest/video.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png" group-title="MUSICA",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png " group-title="MUSICA",Quiero_HD
+#EXTINF:-1 tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png " group-title="MUSICA",Quiero HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/150px-MTV_2021_%28brand_version%29.svg.png" group-title="MUSICA",MTV_HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
@@ -165,11 +165,11 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/Disn
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="INFANTIL", Disney XD 
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204299
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Natgeo_Kids_logo.svg" group-title="INFANTIL", NatGeo_Kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Natgeo_Kids_logo.svg" group-title="INFANTIL", NatGeo Kids
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/NatGeo_Kids/SA_SAGEMCOM/NatGeo_Kids.m3u8
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2019/08/nickviacomtw.jpg" group-title="INFANTIL", Nickelodeon
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_nick-jr_m.png" group-title="INFANTIL", Nick_Jr
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_nick-jr_m.png" group-title="INFANTIL", Nick Jr
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/f/ff/Tooncas_logo_jpg.png/revision/latest?cb=20140720173926&path-prefix=es" group-title="INFANTIL", Tooncast
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
@@ -243,7 +243,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Telewizja_Polska_2022.svg" group-title="TDA",TVP
 https://f6z5x8d4.stackpathcdn.com/stream_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TDA",WOWTV
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TDA",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/chunklist_w965407691_b1500000_slen.m3u8 
 #EXTINF:-1 tvg-logo="http://www.tectv.gob.ar/resources/img/logo.png" group-title="TDA",TEC TV
 https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
