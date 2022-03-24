@@ -209,8 +209,6 @@ https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54yt-nm2r-mS2Y5C5Pz
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/media/image/2018/05/24/389513.jpg" group-title="TDA",TELEMAX
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.gentvoficial.com/img/gentv.jpg"group-title="TDA",GEN TV
-https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="https://canal8catamarca.com.ar/wp-content/uploads/2018/05/cropped-fondo0001.jpg"group-title="TDA",CANAL 8 CATAMARCA
 https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w196015907.m3u8
 #EXTINF:-1 tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="TDA",Net TV
@@ -257,6 +255,8 @@ https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telediariotelevision.com.ar/wp-content/uploads/2019/10/cropped-TELEDIARIO-TELEVISION-2.jpg" group-title="TDA",telediario
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
+#EXTINF:-1 tvg-logo="http://www.gentvoficial.com/img/gentv.jpg"group-title="TDA",GENTV DIGITAL 
+https://videohd.live:19360/8010/8010.m3u8
 
 
 
