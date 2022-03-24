@@ -261,7 +261,7 @@ https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-logo="https://liveq.tv/liveq.tv/img/ar-TN24Horas.jpg"group-title="NOTICIAS",TN HD
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png"group-title="NOTICIAS",TELEFE
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png"group-title="NOTICIAS",TELEFE
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG" group-title="NOTICIAS",AMÉRICA TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
