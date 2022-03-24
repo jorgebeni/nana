@@ -238,7 +238,7 @@ ttps://stream.arcast.live/ahora/ahora/chunklist_w1550726158.m3u8?WebM3UCL
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png"group-title="TDA",CANAL U
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Telewizja_Polska_2022.svg" group-title="TDA",TVP
+#EXTINF:-1 tvg-logo="https://new.tvpublica.com.ar/wp-content/uploads/2019/05/SomosArgentina.jpg"group-title="TDA",TVP
 https://f6z5x8d4.stackpathcdn.com/stream_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="TDA",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/chunklist_w965407691_b1500000_slen.m3u8 
