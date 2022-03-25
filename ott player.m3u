@@ -88,10 +88,10 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel.png" group-title="CINE",Sony HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica.png" group-title="CINE",TNT HD
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tntlatino.png"group-title="CINE",TNT HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE",TNT Series
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tntseries.png"group-title="CINE",TNT Series
+https://edge4-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png"group-title="CINE",STAR CHANNEL HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinecanal-1_m.png" group-title="CINE",Cinecanal HD
@@ -292,7 +292,7 @@ http://edge1.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/index.m3u8
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2020/10/IP-Informaci%C3%B3nPeriodistica-561x400.jpg"group-title="NOTICIAS",ip digital
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-#EXTINF:-1 tvg-id="LNPlus.ar" tvg-country="AR"  group-title="NOTICIAS", LN+   
+#EXTINF:-1 tvg-id="LNPlus.ar"tvg-logo="https://cdn.mitvstatic.com/channels/ar_la-nacion_m.png"group-title="NOTICIAS", LN+   
 https://www.youtube.com/watch?v=GZEwdVV5DTY 
 
 
