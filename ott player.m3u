@@ -46,7 +46,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTES",Fox Sports3 HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png" group-title="DEPORTES",TNT Sport Premium
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png" group-title="DEPORTES",TNT Sports
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TYC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
@@ -197,7 +197,7 @@ https://www.youtube.com/watch?v=jdabt62eFUA
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1480555983369764865/aEyj0zPi_400x400.jpg"group-title="MDP",CANAL 10 mar del plata
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
-#EXTINF:-1 tvg-id="mardelplata.mitelefe.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/266px-Telefe_Mar_del_Plata_%282018%29.png"group-title="MDP",telefe mar del plata
+#EXTINF:-1 tvg-id="mardelplata.mitelefe.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/266px-Telefe_Mar_del_Plata_%282018%29.png"group-title="MDP",TELEFE MARDEL PLATA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0110
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--79TV.png"group-title="MDP",CANAL 79 MDP
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
@@ -270,7 +270,7 @@ https://www.youtube.com/watch?v=LNn14YeAOQg
 
 
 
-#EXTINF:-1 tvg-logo="https://liveq.tv/liveq.tv/img/ar-TN24Horas.jpg"group-title="NOTICIAS",TN HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tn_m.png"group-title="NOTICIAS",TN HD
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png"group-title="NOTICIAS",TELEFE
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
