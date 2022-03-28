@@ -22,7 +22,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png"group-title="DUCUMENTALES", GOURMET TV
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel.png"group-title="DUCUMENTALES",DISCOVERY CHANNEL
-https://edge01-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+https://edge4-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Comedy_Central.png"group-title="DUCUMENTALES",COMEDY CENTRAL
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 
@@ -37,7 +37,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES",ESPN 4
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="DEPORTES",ESPN EXTRA
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/.m3u8
+https://edge4-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60404/foxsportpremium.jpg" group-title="DEPORTES",Fox Sports Premium
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES",FoxSports
@@ -148,6 +148,8 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/chunklist_w502191135.
 http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_warner-channel_m.png"group-title="CINE", Warner Channel
 http://168.232.168.242:8000/play/a0eq/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_sun-channel_m.png"group-title="CINE",SUM CHANNEL
+https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_SAGEMCOM/Sun_Channel.m3u8
 
 
 
@@ -208,13 +210,11 @@ https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/d5/e3/d5e3018d395c9cfaa4bfd36b411c024d.jpg"group-title="MDP",CANAL 6 MAR DEL PLATA
 https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal.mdp.edu.ar/img/canal28.png"group-title="MDP",CANAL UNIVERSIDAD MDP
-https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54yt-nm2r-mS2Y5C5Pz69EzA)/dm/3/x7kvvgi/s/live-1.m3u8
+https://stream-02.sv4.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL548Y1oAAG0u8mA6Sr9HGYcmw)/dm/3/x7kvvgi/s/live-0.m3u8
 
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telemax-telecentro_m.png" group-title="TDA", TELEMAX
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canal8catamarca.com.ar/wp-content/uploads/2018/05/cropped-fondo0001.jpg"group-title="TDA",CANAL 8 CATAMARCA
-https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w196015907.m3u8
 #EXTINF:-1 tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="TDA",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gob-artwork.obs.sa-argentina-1.myhuaweicloud.com/content/ls/37160e1aa0e785cba0707609a44ef51b.png " group-title="TDA",MIRADOR TV
