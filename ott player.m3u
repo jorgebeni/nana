@@ -348,4 +348,40 @@ https://stmv1.srvif.com/canal77/canal77/playlist.m3u8
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 
 
+XTINF:-1 tvg-logo="https://telefullenvivo.com/logos/amclatino.png"group-title="PRUEBA",AMC
+https://edge4-hr.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8,
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/syfy.png"group-title="PRUEBA",SyFy
+https://edge4-hr.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8 
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/fxm.png"group-title="PRUEBA",FXM
+https://edge4-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8 ,
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/axnlatino.png"group-title="PRUEBA",AXNHD
+https://edge4-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8 
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tn.png"group-title="PRUEBA",TodoNoticias
+https://edge4-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cronicatv.png"group-title="PRUEBA",CronicaTV
+https://edge4-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.diario26.com/media/image/2018/05/24/389513.jpg"group-title="PRUEBA",America24
+https://edge4-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/america2.png"group-title="PRUEBA",AmericaTV
+https://edge4-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/ciudadmagazine.png"group-title="PRUEBA",Magazine
+https://edge4-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/c5n.png"group-title="PRUEBA",C5N
+https://edge4-hr.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tntseries.png"group-title="PRUEBA",TNTSeries
+https://edge4-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+
+
+
+
 
