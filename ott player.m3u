@@ -349,13 +349,13 @@ https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 
 
 XTINF:-1 tvg-logo="https://telefullenvivo.com/logos/amclatino.png"group-title="PRUEBA",AMC
-https://edge4-hr.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8,
+https://edge4-hr.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/syfy.png"group-title="PRUEBA",SyFy
 https://edge4-hr.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8 
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/fxm.png"group-title="PRUEBA",FXM
-https://edge4-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8 ,
+https://edge4-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8 
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/axnlatino.png"group-title="PRUEBA",AXNHD
 https://edge4-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8 
