@@ -366,7 +366,7 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cronicatv.png"group-title="PRUEBA",CronicaTV
 https://edge4-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.diario26.com/media/image/2018/05/24/389513.jpg"group-title="PRUEBA",America24
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/a24.png"group-title="PRUEBA",America24
 https://edge4-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/america2.png"group-title="PRUEBA",AmericaTV
