@@ -115,8 +115,6 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extr
 https://edge4-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel.png" group-title="CINE",Paramount
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="CINE", A&E
-http://edge02-fdo-py.cvattv.com.ar/live/live/AEHD/SA_SAGEMCOM/AEHD.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/syfy.png"group-title="CINE",SyFy
 https://edge4-hr.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="CINE", FX
@@ -157,6 +155,12 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneH
 https://edge4-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/tntseries.png"group-title="CINE",TNTSeries
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png"group-title="CINE",FOXHD
+https://edge4-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-life_m.png"group-title="CINE",STAR LIFE
+https://edge4-sl.cvattv.com.ar/live/c6eds/Start_Life/SA_SAGEMCOM/Start_Life.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_space_m.png"group-title="CINE",SPACEHD
+https://edge4-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8  
 
 
 
@@ -200,6 +204,8 @@ https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
 https://www.youtube.com/watch?v=4KUNBZoQk9o
 #EXTINF:-1 group-title="INFANTIL", Baby first 
 https://www.youtube.com/watch?v=jdabt62eFUA
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_m.png"group-title="INFANTIL",CARTOON NETWORK AR
+https://edge4-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 
 
 
@@ -313,6 +319,12 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 https://edge4-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/c5n.png"group-title="NOTICIAS",C5N
 https://edge4-hr.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-7-capital_m.png"group-title="NOTICIAS",TV PUBLICA
+https://edge4-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png"group-title="NOTICIAS",TELEFE
+https://edge4-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg"group-title="NOTICIAS",EL NUEVE
+https://edge4-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8 
 
 
 
@@ -357,34 +369,19 @@ https://stmv1.srvif.com/canal9/canal9/playlist.m3u8
 https://stmv1.srvif.com/canal77/canal77/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1178750142335393800/ZRG8-qD8_400x400.jpg" group-title="URUGUAY", TV CHARRUA
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png"group-title="URUGUAY",TELE URUGUAY
+https://stream-01.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW0Sl2wmmTtoKszglmXNvqZ8)/dm/3/x7zjvi4/s/live-2.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-7-capital_m.png"group-title="PRUEBA",TV PUBLICA
-https://edge4-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png"group-title="PRUEBA",TELEFE
-https://edge4-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg"group-title="PRUEBA",EL NUEVE
-https://edge4-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png"group-title="PRUEBA",FOXHD
-https://edge4-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-life_m.png"group-title="PRUEBA",STAR LIFE
-https://edge4-sl.cvattv.com.ar/live/c6eds/Start_Life/SA_SAGEMCOM/Start_Life.m3u8 
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_space_m.png"group-title="PRUEBA",SPACEHD
-https://edge4-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8  
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_m.png"group-title="PRUEBA",CARTOON NETWORK AR
-https://edge4-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png"group-title="PRUEBA",ESPNEXTRA
 https://edge4-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png"group-title="PRUEBA",TELE URUGAY
-https://stream-01.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW0Sl2wmmTtoKszglmXNvqZ8)/dm/3/x7zjvi4/s/live-2.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://www.santafecanal.com.ar/assets/img/idLogo.svg"group-title="PRUEBA",5RTV
 https://livestream.com/api/accounts/22636012/events/8242619/live.m3u8 
