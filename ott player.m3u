@@ -65,6 +65,8 @@ http://154.62.74.29:1935/live/gol/chunklist.m3u
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png"group-title="DEPORTES",ESPNEXTRA
 https://edge4-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1335010852181860352/wV_lHG2W_400x400.jpg" group-title="DEPORTES", DIRECTV SPORTS
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 
 
@@ -129,7 +131,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cine_sony-mediano.png"group-title="CINE", SONY CINE
 http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://1.bp.blogspot.com/-ujFKlvZdo-4/Ya1vNGJNBOI/AAAAAAAA-HQ/7hQuDOh9DnIF2H39sQ5CiJFiVbVEK3_2QCNcBGAsYHQ/s0/universal-premiere.png"group-title="CINE",UNIVERSAL PREMIERE
-http://168.232.168.242:8000/play/a069/index.m3u8
+http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden
 http://168.232.168.242:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_golden_m.png"group-title="CINE",Golden +
