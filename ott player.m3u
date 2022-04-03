@@ -63,6 +63,9 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 http://154.62.74.29:1935/live/gol/chunklist.m3u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="DEPORTES", CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png"group-title="DEPORTES",ESPNEXTRA
+https://edge4-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+
 
 
 
@@ -280,6 +283,10 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2021/09/logo-texto-blanco-e1631723660642.png"group-title="TDA",CANAL 7 MENDOZA
 https://www.youtube.com/watch?v=LNn14YeAOQg
+#EXTINF:-1 tvg-logo="https://www.santafecanal.com.ar/assets/img/idLogo.svg"group-title="TDA",5RTV
+https://livestream.com/api/accounts/22636012/events/8242619/live.m3u8 
+#EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png"group-title="TDA",Canal 7 de Santiago del Estero 
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w698214521.m3u8
 
 
 
@@ -378,16 +385,10 @@ https://stream-01.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW0Sl2wmmTtoKszglmX
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png"group-title="PRUEBA",ESPNEXTRA
-https://edge4-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.santafecanal.com.ar/assets/img/idLogo.svg"group-title="PRUEBA",5RTV
-https://livestream.com/api/accounts/22636012/events/8242619/live.m3u8 
 
-#EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png"group-title="PRUEBA",Canal 7 de Santiago del Estero 
-https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w698214521.m3u8
 
 
 
