@@ -215,7 +215,7 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetw
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1480555983369764865/aEyj0zPi_400x400.jpg"group-title="MDP",CANAL 10 mar del plata
+#EXTINF:-1 tvg-logo="https://www.canal10mardelplata.tv/imgs/default/CarruselBanners/Banner%20(3).jpg"group-title="MDP",CANAL 10 mar del plata
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 #EXTINF:-1 tvg-id="mardelplata.mitelefe.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/266px-Telefe_Mar_del_Plata_%282018%29.png"group-title="MDP",TELEFE MARDEL PLATA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0110
