@@ -214,23 +214,6 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetw
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.canal10mardelplata.tv/imgs/default/CarruselBanners/Banner%20(3).jpg"group-title="MDP",CANAL 10 mar del plata
-https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
-#EXTINF:-1 tvg-id="mardelplata.mitelefe.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/266px-Telefe_Mar_del_Plata_%282018%29.png"group-title="MDP",TELEFE MARDEL PLATA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0110
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--79TV.png"group-title="MDP",CANAL 79 MDP
-https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg"group-title="MDP",CANAL 2 MDP
-https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
-#EXTINF:-1 tvg-logo="http://noticiasxfn.com/wp-content/uploads/2017/10/logocabecera-2.png " group-title="MDP",XFN MDP
-https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/d5/e3/d5e3018d395c9cfaa4bfd36b411c024d.jpg"group-title="MDP",CANAL 6 MAR DEL PLATA
-https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canal.mdp.edu.ar/img/canal28.png"group-title="MDP",CANAL UNIVERSIDAD MDP
-https://stream-02.sv4.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL548Y1oAAG0u8mA6Sr9HGYcmw)/dm/3/x7kvvgi/s/live-0.m3u8
-
-
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telemax-telecentro_m.png" group-title="TDA", TELEMAX
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="TDA",Net TV
@@ -335,7 +318,20 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg"group-title="NOTICIAS",EL NUEVE
 https://edge4-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8 
 
-
+#EXTINF:-1 tvg-logo="https://www.canal10mardelplata.tv/imgs/default/CarruselBanners/Banner%20(3).jpg"group-title="MDP",CANAL 10 mar del plata
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
+#EXTINF:-1 tvg-id="mardelplata.mitelefe.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/266px-Telefe_Mar_del_Plata_%282018%29.png"group-title="MDP",TELEFE MARDEL PLATA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0110
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--79TV.png"group-title="MDP",CANAL 79 MDP
+https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg"group-title="MDP",CANAL 2 MDP
+https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
+#EXTINF:-1 tvg-logo="http://noticiasxfn.com/wp-content/uploads/2017/10/logocabecera-2.png " group-title="MDP",XFN MDP
+https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/d5/e3/d5e3018d395c9cfaa4bfd36b411c024d.jpg"group-title="MDP",CANAL 6 MAR DEL PLATA
+https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canal.mdp.edu.ar/img/canal28.png"group-title="MDP",CANAL UNIVERSIDAD MDP
+https://stream-02.sv4.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL548Y1oAAG0u8mA6Sr9HGYcmw)/dm/3/x7kvvgi/s/live-0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/afvfamily.png"group-title="CURIOSIDAD",AFV
