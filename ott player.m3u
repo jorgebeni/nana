@@ -122,8 +122,6 @@ https://edge4-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/syfy.png"group-title="CINE",SyFy
 https://edge4-hr.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="CINE", FX
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmnPAq_VN_wSKsfG6ypeuyo6pdAV7mVd_-9Q&usqp=CAU" group-title="CINE", Space
 https://edge9-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_incaa-tv_m.png"group-title="CINE",CINE AR
@@ -171,8 +169,8 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png"group-title="INFANTIL", Baby TV
 https://edge5-sl.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png"group-title="INFANTIL", Cartoonito
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204294
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cartonito.png"group-title="INFANTIL", Cartoonito
+https://edge3.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_m.png"group-title="INFANTIL", Cartoon Network
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 #EXTINF:-1 tvg-logo="https://i.argentino.com.ar/images/2013/0518/776779-discovery-kids-channel-en-canal-infantil-mas-visto-por-los-mas-chiquitos-20130518010922409.jpg" group-title="INFANTIL", Discovery_Kids
@@ -378,6 +376,10 @@ https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 https://stream-01.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW0Sl2wmmTtoKszglmXNvqZ8)/dm/3/x7zjvi4/s/live-2.m3u8 
 
 
+EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/volver.png"group-title="NUEVOS",VOLVER
+https://edge4-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8
+EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/sony-comedias.png"group-title="NUEVOS",SONY COMEDIA
+https://spt-comedias-1-us.samsung.wurl.tv/2000.m3u8
 
 
 
