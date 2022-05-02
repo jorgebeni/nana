@@ -48,7 +48,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSpor
 #EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/13053594.jpg" group-title="DEPORTES",TNT Sports
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TYC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+https://edge6-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTES", DirectTV Deportes
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204265
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTES", DirectTV Sports 2
