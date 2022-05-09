@@ -260,7 +260,7 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2021/09/logo-texto-blanco-e1631723660642.png"group-title="TDA",CANAL 7 MENDOZA
 https://www.youtube.com/watch?v=LNn14YeAOQg
-#EXTINF:-1 tvg-logo="https://www.santafecanal.com.ar/assets/img/idLogo.svg"group-title="TDA",5RTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Santa_Fe_Canal.png/120px-Santa_Fe_Canal.png"group-title="TDA",5RTV
 https://livestream.com/api/accounts/22636012/events/8242619/live.m3u8 
 #EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png"group-title="TDA",Canal 7 de Santiago del Estero 
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w698214521.m3u8
