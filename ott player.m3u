@@ -37,7 +37,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="DEPORTES",ESPN EXTRA
 https://edge4-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1 tvg-logo="https://megalink.vangrow.com.ar/web/image/60404/foxsportpremium.jpg" group-title="DEPORTES",Fox Sports Premium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/150px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",ESPN premium argentina
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES",FoxSports
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
